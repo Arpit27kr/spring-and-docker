@@ -1,0 +1,4 @@
+io\aadeesh\controller\UserController.class
+io\aadeesh\repo\UserRepository.class
+io\aadeesh\model\User.class
+io\aadeesh\UserRegistration1Application.class
